@@ -4,9 +4,9 @@
  */
 public class Grilo extends Animal {
   	public void mover(){
-		System.out.println("Grilo salta");
+	System.out.println("Grilo salta");
 	}
 	public void som(){
-		System.out.println("Grilo Cricrila");
+	System.out.println("Grilo Cricrila");
 	}
 }

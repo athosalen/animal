@@ -2,7 +2,7 @@
 /**
  * Classe Animal
  */
-public class Animal {
+static class Animal {
 
     public void mover() {
         System.out.println("Animais podem se mover");
